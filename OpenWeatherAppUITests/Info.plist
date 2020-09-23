@@ -18,5 +18,9 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Need your current location to obtain a weather for you</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Need your current location to obtain a weather for you</string>
 </dict>
 </plist>
